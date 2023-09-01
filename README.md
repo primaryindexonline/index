@@ -1,2 +1,5 @@
-# index
-Home Page for organisation
+**primaryindex.org**
+
+base
+
+[etokos.com](etokos.com)
