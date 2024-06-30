@@ -1,5 +1,5 @@
 **primaryindex.online**
 
-base
+is a base for
 
 [etokos.com](https://etokos.com)
